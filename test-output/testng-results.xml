@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12131" started-at="2019-04-17T06:24:57Z" finished-at="2019-04-17T06:25:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12131" started-at="2019-04-17T06:24:57Z" finished-at="2019-04-17T06:25:09Z">
+      <class name="jenkins.Integrate">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:jenkins.Integrate@735b5592]" name="beforeMethod" is-config="true" duration-ms="11048" started-at="2019-04-17T11:54:57Z" finished-at="2019-04-17T11:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:jenkins.Integrate@735b5592]" name="f" duration-ms="782" started-at="2019-04-17T11:55:08Z" finished-at="2019-04-17T11:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:jenkins.Integrate@735b5592]" name="afterMethod" is-config="true" duration-ms="265" started-at="2019-04-17T11:55:09Z" finished-at="2019-04-17T11:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- jenkins.Integrate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
